@@ -28,3 +28,4 @@ Next.js → Pages → Components → React Context → Dummy data
 
 ## Disclaimer
 Student project using dummy data. The coach is rule-based and gives general wellness tips, not medical advice.
+# SkillLabProject
